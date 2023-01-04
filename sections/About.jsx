@@ -25,7 +25,6 @@ const About = () => (
         <span className="font-extrabold text-white">VR</span> devices you can easily explore the metaverse world you want, turn your
         dreams into reality. Let's <span className="font-extrabold text-white">explore</span> the madness of the metaverse by scrolling down
       </motion.p>
-{/* 57:27 */}
       <motion.img 
       variants={fadeIn('up', 'tween', 0.3, 1)}
       src="/arrow-down.svg"
